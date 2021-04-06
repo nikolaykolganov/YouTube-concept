@@ -1,1 +1,3 @@
-# YouTube-concept
+# YouTube-concept 
+Проект выполнил Николай Колганов
+
